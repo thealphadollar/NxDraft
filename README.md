@@ -1,5 +1,5 @@
 # NxDraft
-NxDraft does exactly what the name suggests; it creats N drafts from one.
+NxDraft does exactly what the name suggests; it creates N drafts from one.
 
 ## To Use
 
@@ -27,3 +27,8 @@ Below are the steps that need to be followed if you've already ran the program o
 - `python3 nxdraft/api.py`
 
 The virtual environment created in first step is used here :)
+
+## Contributing
+
+Please read CONTRIBUTING.md guide to know more.
+>>>>>>> add contribution instructions
