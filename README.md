@@ -1,5 +1,8 @@
 # NxDraft
-NxDraft does exactly what the name suggests; it creates N drafts from one.
+
+[![Join the chat at https://gitter.im/NxDraft/Lobby](https://badges.gitter.im/NxDraft/Lobby.svg)](https://gitter.im/NxDraft/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+NxDraft does exactly what the name suggests; it creats N drafts from one.
 
 ## To Use
 
@@ -31,4 +34,3 @@ The virtual environment created in first step is used here :)
 ## Contributing
 
 Please read CONTRIBUTING.md guide to know more.
->>>>>>> add contribution instructions
