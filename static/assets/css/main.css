@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+    background-color: #FF6138;
+}
+
+.btn {
+    padding: 0.5rem;
+    margin: 1rem 0.2rem;
+}
+
+.jumbotron {
+    background-color: #FFFF9D;
+}
+
+.h5 {
+    color: #FF6138;
+}
+
+.lead {
+    padding-left: 0.5rem;
+}
