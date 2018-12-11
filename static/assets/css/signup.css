@@ -4,7 +4,7 @@
 }
 
 body#SignupForm{ 
-  background: #79BD8F;
+  background: #FFFF9D;
 }
 
 .form-heading {
@@ -56,8 +56,8 @@ body#SignupForm{
 }
 
 .signup-form  .btn.btn-primary {
-  background: #f0ad4e none repeat scroll 0 0;
-  border-color: #f0ad4e;
+  background: #00A388 none repeat scroll 0 0;
+  border-color: #00A388;
   color: #ffffff;
   font-size: 14px;
   width: 100%;
@@ -77,7 +77,7 @@ body#SignupForm{
 }
 
 .signup-form .btn.btn-primary.reset {
-  background: #FF6138 none repeat scroll 0 0;
+  background: #00A388 none repeat scroll 0 0;
 }
 .back {
   text-align: left;
