@@ -1,4 +1,7 @@
 # NxDraft
+
+[![Join the chat at https://gitter.im/NxDraft/Lobby](https://badges.gitter.im/NxDraft/Lobby.svg)](https://gitter.im/NxDraft/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 NxDraft does exactly what the name suggests; it creats N drafts from one.
 
 ## To Use
@@ -27,3 +30,7 @@ Below are the steps that need to be followed if you've already ran the program o
 - `python3 nxdraft/api.py`
 
 The virtual environment created in first step is used here :)
+
+## Contributing
+
+Please read CONTRIBUTING.md guide to know more.
