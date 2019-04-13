@@ -31,6 +31,15 @@ Below are the steps that need to be followed if you've already ran the program o
 
 The virtual environment created in first step is used here :)
 
+## Reset Account
+
+To attach a new account and remove the authentication for the previous one, please delete the credentials file using
+the following command.
+
+```
+rm ~/.nxdraftauth
+```
+
 ## Contributing
 
 Please read CONTRIBUTING.md guide to know more.
